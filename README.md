@@ -21,7 +21,7 @@ I’m passionate about designing and deploying scalable, intelligent systems tha
 ### 🧰 Tech Stack & Specialties
 
 - **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Hugging Face, Scikit-learn  
-- **NLP:** Transformers, BERT, Bidirectional LSTMs, LangChain, Chatbot Dev  
+- **NLP:** Transformers, BERT, Bidirectional LSTMs, LangChain, LangGraph  
 - **Computer Vision:** CNNs, Vision Transformers, OpenCV, MediaPipe  
 - **Vector DBs & RAG:** FAISS, Milvus, ChromaDB, LlamaIndex, Weaviate  
 - **Agentic AI:** AutoGen, Multi-Agent Systems  
