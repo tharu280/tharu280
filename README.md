@@ -41,7 +41,7 @@ Bringing cutting-edge AI research into real-world solutions.
 
 ### 📜 Certifications
 
-- 🚧 AWS Certified AI Engineer Associate – *in progress*  
+- 🚧 Azure Certified AI Engineer Associate – *in progress*  
 - 🧠 Azure AI Fundamentals (AI-900)  
 - 🧠 AutoGen, Agentic AI, Hugging Face, Vector DBs — *LinkedIn Certified*
 
