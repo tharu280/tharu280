@@ -24,11 +24,11 @@ I’m passionate about designing and deploying scalable, intelligent systems tha
 - **NLP:** Transformers, BERT, Bidirectional LSTMs, LangChain, LangGraph  
 - **Computer Vision:** CNNs, Vision Transformers, OpenCV, MediaPipe  
 - **Vector DBs & RAG:** FAISS, Milvus, ChromaDB, LlamaIndex, Weaviate  
-- **Agentic AI:** AutoGen, Multi-Agent Systems  
+- **Agentic AI:** AutoGen, Multi-Agent Systems, LangGraph, Crew AI, LlamaIndex
 - **DevOps / MLOps:** Docker, GitHub Actions, CI/CD, Kubernetes, Kafka, Redis  
 - **API & Backend:** FastAPI, Flask, Streamlit, Kivy  
 - **Cloud:** AWS, Azure, GCP  
-- **Databases:** MongoDB, MySQL, Firebase  
+- **Databases:** MongoDB, MySQL, Firebase ,MiniO, PostgreSQL
 
 ---
 
