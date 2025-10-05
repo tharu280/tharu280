@@ -44,6 +44,8 @@ Bringing cutting-edge AI research into real-world solutions.
 - 🚧 Azure Certified AI Engineer Associate – *in progress*  
 - 🧠 Azure AI Fundamentals (AI-900)  
 - 🧠 AutoGen, Agentic AI, Hugging Face, Vector DBs — *LinkedIn Certified*
+- NASA Space Apps Challenge 2025 – “A World Away: Hunting for Exoplanets with AI”
+Role: Solo participant (Intelli-Gen AI)
 
 ---
 
