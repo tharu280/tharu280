@@ -41,11 +41,11 @@ Bringing cutting-edge AI research into real-world solutions.
 
 ### 📜 Certifications
 
-- 🚧 Azure Certified AI Engineer Associate – *in progress*
+-  Azure Certified AI Engineer Associate – *in progress*
 - Astronomer Certification DAG Authoring for Apache Airflow 3
 - Apache Airflow Fundamentals
-- 🧠 Azure AI Fundamentals (AI-900)  
-- 🧠 AutoGen, Agentic AI, Hugging Face, Vector DBs — *LinkedIn Certified*
+- Azure AI Fundamentals (AI-900)  
+- AutoGen, Agentic AI, Hugging Face, Vector DBs — *LinkedIn Certified*
 - NASA Space Apps Challenge 2025 – “A World Away: Hunting for Exoplanets with AI”
 Role: Solo participant (Intelli-Gen AI)
 
