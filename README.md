@@ -13,7 +13,7 @@ I'm a **research-driven Machine Learning Engineer** who thrives at the intersect
 
 - 🧠 **NLP & Generative AI**  
 - 🤖 **Agentic AI & Autonomous Systems**  
-- 🐘 **AI for Sustainability** (currently building an AI-based human-elephant conflict mitigation system)
+- 🐘 **AI for Sustainability** 
 - 🏥 **AI in Healthcare**  
 
 I’m passionate about designing and deploying scalable, intelligent systems that go beyond proof of concept — systems that *solve real problems*.
