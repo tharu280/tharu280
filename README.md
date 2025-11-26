@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | AI Engineer | NLP & GenAI Enthusiast**  
 📍 Based in Badulla, Sri Lanka  
-📧 tharushika280@gmail.com 
+📧 tharushika280@gmail.com  https://tharushika-portfolio.vercel.app/
 🔗 [LinkedIn](https://www.linkedin.com/in/tharushika-abedheera-3396311a4/) | 🧠 [ResearchGate](https://www.researchgate.net/profile/Tharushika-Abedheera)  
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=tharu280&label=Profile%20views&color=0e75b6&style=flat)
