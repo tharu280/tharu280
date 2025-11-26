@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tharu280&label=Profile%20views&color=0e75b6&style=flat)
 ---
 ### 🚀 About Me
-visit my portfolio : [Visit MY Portfolio](https://tharushika-portfolio.vercel.app/) 
+visit my portfolio : (https://tharushika-portfolio.vercel.app/) 
 I'm a **research-driven Machine Learning Engineer** who thrives at the intersection of deep tech and real-world impact. I specialize in:
 
 - 🧠 **NLP & Generative AI**  
