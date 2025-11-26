@@ -2,13 +2,13 @@
 
 **Machine Learning Engineer | AI Engineer | NLP & GenAI Enthusiast**  
 📍 Based in Badulla, Sri Lanka  
-📧 tharushika280@gmail.com  https://tharushika-portfolio.vercel.app/
+📧 tharushika280@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tharushika-abedheera-3396311a4/) | 🧠 [ResearchGate](https://www.researchgate.net/profile/Tharushika-Abedheera)  
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=tharu280&label=Profile%20views&color=0e75b6&style=flat)
 ---
 ### 🚀 About Me
-
+visit my portfolio : [Visit MY Portfolio](https://tharushika-portfolio.vercel.app/) 
 I'm a **research-driven Machine Learning Engineer** who thrives at the intersection of deep tech and real-world impact. I specialize in:
 
 - 🧠 **NLP & Generative AI**  
